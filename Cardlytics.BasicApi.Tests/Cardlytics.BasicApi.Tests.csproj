@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <PackageReference Include="FluentAssertions" Version="5.5.3" />
-    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.4" />
     <PackageReference Include="Microsoft.AspNetCore.TestHost" Version="2.1.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.1.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
